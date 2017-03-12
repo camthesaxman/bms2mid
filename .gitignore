@@ -1,0 +1,16 @@
+# input/output files
+bms2mid
+*.exe
+*.mid
+*.bms
+
+# OS generated detritus
+*.*~
+.DS_Store
+.DS_Store
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
